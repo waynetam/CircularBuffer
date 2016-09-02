@@ -1,7 +1,7 @@
 CircularBuffer
 ==============
 
-A thread safe circular buffer useful for audio applications.
+A Java thread safe circular buffer useful for audio applications.
 
 Features:
 
